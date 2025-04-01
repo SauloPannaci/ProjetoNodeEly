@@ -1,5 +1,5 @@
-const usuarioRoute = require("./usuarioRoute");
+const produtoRoute = require("./produtoRoute");
 
 module.exports = (app) => {
-    usuarioRoute(app);
+    produtoRouteRoute(app);
 }
